@@ -1,4 +1,4 @@
-# This file is part of Mindscape. <>
+# This file is part of Mindscape. <https://github.com/monsieuremre/mindscape>
 # Mindscape is free software: you can redistribute it and/or modify it
 # under the terms of the GNU General Public License as published by the
 # Free Software Foundation, either version 3 of the License, or (at your
@@ -222,9 +222,9 @@ class Board:
                 checker = self.board[i][j]
                 if checker:
                     if checker.is_red:
-                        print("\033[38;2;255;0;0mo\033[0m", end="")
+                        print("[\033[38;2;255;0;0mo\033[0m]", end="")
                     else:
-                        print("o", end="")
+                        print("[o]", end="")
                 else:
                     print("[ ]", end="")
             print("\n", end="")
