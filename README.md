@@ -10,7 +10,7 @@ This is a complete implementation of American Checkers that runs on the terminal
 
 ## Prerequisites
 
-Python 3 has to be installed on your machine for you to be able to run this program. Instructions for your specific operating system can be found [here](https://www.python.org)
+Python 3 has to be installed on your machine for you to be able to run this program. Instructions for your specific operating system can be found [here.](https://www.python.org)
 
 ## Getting Started
 
