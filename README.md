@@ -46,4 +46,4 @@ See [LICENSE](LICENSE) for more details.
 ## Contact
 
 If you need to contact me regarding the project for any reason, please open an issue or create a pull request.
-Project Link: [https://github.com/monsieuremre/mindscape)
+Project Link: [https://github.com/monsieuremre/mindscape](https://github.com/monsieuremre/mindscape)
