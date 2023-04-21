@@ -6,7 +6,7 @@
 
 ## About The Project
 
-This is a complete implementation of American Checkers that runs on the terminal. The user plays against an artifical intelligence which comes prebuilt in the game. The user can choose the difficulty of the computer, though more difficult means more computing power.
+This is a complete implementation of American Checkers that runs on the terminal. The user plays against an artifical intelligence which comes prebuilt in the game. The user can choose the difficulty of the computer, though more difficult means more computing power. For the AI the minimax algorithm is used. In addition, the alpha beta pruning method is also implemented for better optimization.
 
 ## Prerequisites
 
